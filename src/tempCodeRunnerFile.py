@@ -1,12 +1,10 @@
 # IMPORTS
-import pygame
-import sys
+import sys, pygame
 from constants import *
 
 # Initialize Pygame
 pygame.init()
 screen = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
-clock = pygame.time.Clock()
 
 while True:
     for event in pygame.event.get():
@@ -14,4 +12,3 @@ while True:
             pygame.quit()
             sys.exit()
     pygame.display.update()
-    clock.tick(60)
