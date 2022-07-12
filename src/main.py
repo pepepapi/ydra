@@ -1,6 +1,5 @@
 # IMPORTS
-import pygame
-import sys
+import pygame, sys
 from constants import *
 
 # Initialize Pygame
