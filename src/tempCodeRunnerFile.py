@@ -1,1 +1,1 @@
-system. Watch Clear Code's video on FPS
+assets/fonts/Inter/static/Inter-Light.ttf
