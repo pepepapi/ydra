@@ -4,6 +4,8 @@ from constants import *
 from logicope import *
 from pprint  import pprint
 
+# HOLAAA
+
 # - Initialize Pygame -
 pygame.init()
 screen = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
