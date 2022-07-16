@@ -4,7 +4,11 @@
 
 #### main.py
 
+###### Main Loop
 Main Game Loop that repeats instances of itself to create animation (stop motion effect). Imports everything from *constants.py* and *logicope.py*
+
+###### Surface Handling
+
 
 #### logicope.py
 
@@ -29,6 +33,7 @@ Basic Logical Operator functions that return boolean values. The list of the log
 ##### NOR
 - *_nor(value1, value2)* & represent **NOR**
 	- If either *bool1* or *bool2* are **True**, output _False_
+
 
 
 #### constants.py

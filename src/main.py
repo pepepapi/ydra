@@ -1,16 +1,16 @@
-# IMPORTS
+# - Imports - 
 import pygame, sys, os
 from constants import *
 from logicope import *
 from pprint  import pprint
 
-# Initialize Pygame
+# - Initialize Pygame -
 pygame.init()
 screen = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
 pygame.display.set_caption('Ydra')
 clock = pygame.time.Clock()
 
-# CREATE INSTANCES
+# - Instances -
 testFont = pygame.font.Font(InterLight, 50)
 textSurface = testFont.render("Hello World", False, (100, 200, 100))
 
