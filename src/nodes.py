@@ -1,6 +1,3 @@
-from copyreg import constructor
-
-
 from logicope import *
 
 #this is just an idea. it doesn't work at
