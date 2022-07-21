@@ -10,4 +10,3 @@ class Nodes:
     def _log(self):
         pass
     
-print(Nodes(LogiCope._and(True, True), False, False))
