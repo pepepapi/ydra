@@ -1,1 +1,0 @@
-assets/fonts/Inter/static/Inter-Light.ttf
